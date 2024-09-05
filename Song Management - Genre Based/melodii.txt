@@ -1,0 +1,10 @@
+1,nirvana,inna,disco
+2,jameia,antonia,pop
+3,ibiza,tyga,pop
+4,te rog,carla's dreams,rock
+5,ramai cu bine,delia,folk
+6,barcelona,andra,disco
+7,acasa,smiley,folk
+8,ce are ea,delia,folk
+9,ruleta,inna,rock
+10,yalla,inna,disco

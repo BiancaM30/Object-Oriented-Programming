@@ -1,0 +1,21 @@
+[2021-06-07 00:28:29] [info] Start Program:
+Path:"C:\\Users\\munte\\source\\repos\\TicTacToe\\x64\\Debug\\TicTacToe.exe"
+Arguments:
+Working directory: "C:\\Users\\munte\\source\\repos\\TicTacToe\\"
+Modules: Selected: C:\Users\munte\source\repos\TicTacToe\x64\Debug\TicTacToe.exe Excluded: 
+Sources: Selected: C:\Users\munte\source\repos\TicTacToe Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\munte\AppData\Local\Temp\flg2bvxz.drf 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-06-07 00:28:29] [info] Module: C:\Users\munte\source\repos\TicTacToe\x64\Debug\TicTacToe.exe is selected because it matches selected pattern: C:\Users\munte\source\repos\TicTacToe\x64\Debug\TicTacToe.exe
+[2021-06-07 00:28:31] [info] ----------------------------------------------------
+[2021-06-07 00:28:31] [info] Coverage binary generated in file: C:\Users\munte\AppData\Local\Temp\flg2bvxz.drf
+[2021-06-07 00:28:31] [info] ----------------------------------------------------

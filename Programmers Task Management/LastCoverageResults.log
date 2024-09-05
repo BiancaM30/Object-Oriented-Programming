@@ -1,0 +1,21 @@
+[2021-06-06 21:49:23] [info] Start Program:
+Path:"C:\\Users\\munte\\source\\repos\\Programatori\\x64\\Debug\\Programatori.exe"
+Arguments:
+Working directory: "C:\\Users\\munte\\source\\repos\\Programatori\\"
+Modules: Selected: C:\Users\munte\source\repos\Programatori\x64\Debug\Programatori.exe Excluded: 
+Sources: Selected: C:\Users\munte\source\repos\Programatori Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\munte\AppData\Local\Temp\4c1k4z3b.wvi 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-06-06 21:49:23] [info] Module: C:\Users\munte\source\repos\Programatori\x64\Debug\Programatori.exe is selected because it matches selected pattern: C:\Users\munte\source\repos\Programatori\x64\Debug\Programatori.exe
+[2021-06-06 21:49:26] [info] ----------------------------------------------------
+[2021-06-06 21:49:26] [info] Coverage binary generated in file: C:\Users\munte\AppData\Local\Temp\4c1k4z3b.wvi
+[2021-06-06 21:49:26] [info] ----------------------------------------------------

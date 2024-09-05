@@ -1,0 +1,21 @@
+[2021-06-05 23:41:59] [info] Start Program:
+Path:"C:\\Users\\munte\\source\\repos\\Melodii2\\x64\\Debug\\Melodii2.exe"
+Arguments:
+Working directory: "C:\\Users\\munte\\source\\repos\\Melodii2\\"
+Modules: Selected: C:\Users\munte\source\repos\Melodii2\x64\Debug\Melodii2.exe Excluded: 
+Sources: Selected: C:\Users\munte\source\repos\Melodii2 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\munte\AppData\Local\Temp\kzhjt0oq.npn 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-06-05 23:41:59] [info] Module: C:\Users\munte\source\repos\Melodii2\x64\Debug\Melodii2.exe is selected because it matches selected pattern: C:\Users\munte\source\repos\Melodii2\x64\Debug\Melodii2.exe
+[2021-06-05 23:42:02] [info] ----------------------------------------------------
+[2021-06-05 23:42:02] [info] Coverage binary generated in file: C:\Users\munte\AppData\Local\Temp\kzhjt0oq.npn
+[2021-06-05 23:42:02] [info] ----------------------------------------------------

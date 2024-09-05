@@ -1,0 +1,12 @@
+1;combo box;bogdan,ana;open
+2;slider an;silviu,ana,marius;inprogress
+3;tabel;ana,paul,radu;inprogress
+4;lista activitati;sergiu,bogdan;closed
+5;generare id;radu,miruna;inprogress
+6;securizare platforma;bogdan,andrei;closed
+7;ferestre multiple;radu,paul,andrei;closed
+8;cautare;ana,sergiu;closed
+9;adaugare utilizator;bogdan,miruna,sergiu;open
+10;butoane generate dinamic;andrei;inprogress
+34;gbdfv;ana,marius,bianca;closed
+45;interfata;ana,marius,bogdan;open

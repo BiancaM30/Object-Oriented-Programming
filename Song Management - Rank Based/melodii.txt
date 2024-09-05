@@ -1,0 +1,10 @@
+1,nirvana,inna,1
+2,jameia,antonia,7
+3,ibiza,tyga,1
+4,te rog,carla's dreams,4
+5,ramai cu bine,delia,5
+6,barcelona,andra,10
+7,acasa,smiley,7
+8,ce are ea,delia,7
+9,ruleta,inna,3
+10,yalla,inna,7

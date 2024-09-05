@@ -1,0 +1,4 @@
+1,3,X-OXO-XOO,X,Terminat
+2,3,-X--OX---,O,In derulare
+3,3,---------,O,Neinceput
+4,5,XOXO--XO-X-OX-----------,N,Neinceput
