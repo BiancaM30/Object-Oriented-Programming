@@ -3,16 +3,55 @@
 This repository contains a collection of five C++ projects with graphical user interfaces, each designed to manage different data sets or provide interactive functionalities. Each application utilizes file handling for data persistence and is developed using the Qt framework for the GUI components.
 
 ## Table of Contents
-
-1. [Product Management Application](#1-product-management-application)
-2. [Song Management Application - Rank Based](#2-song-management-application---rank-based)
-3. [Song Management Application - Genre Based](#3-song-management-application---genre-based)
-4. [Programmers Task Management Application](#4-programmers-task-management-application)
-5. [Tic-Tac-Toe Game Application](#5-tic-tac-toe-game-application)
+1. [Library Management Application](#1-library-management-application)
+2. [Product Management Application](#2-product-management-application)
+3. [Song Management Application - Rank Based](#3-song-management-application---rank-based)
+4. [Song Management Application - Genre Based](#4-song-management-application---genre-based)
+5. [Programmers Task Management Application](#5-programmers-task-management-application)
+6. [Tic-Tac-Toe Game Application](#6-tic-tac-toe-game-application)
 
 ---
+## 1. Library Management Application
 
-## 1. Product Management Application
+A C++ application with a graphical user interface to manage a collection of books in a library. The application supports typical CRUD operations on books and allows users to manage books in a shopping cart. Additional functionalities include sorting, filtering, undo/redo, and exporting cart data.
+
+### Features:
+
+- **Display Books**: Shows a list of books in a table format, sorted by title, author, or publication year.
+- **Add Books**: Users can add new books to the library by providing the title, author, genre, and publication year.
+- **Update Books**: Users can update the genre and publication year of existing books.
+- **Delete Books**: Users can remove books from the library by selecting them based on title and author.
+- **Search for Books**: Users can search for a specific book by title and author, displaying the details if found.
+
+- **Sorting**:
+  - **Sort by Title**: Sorts all books alphabetically by title.
+  - **Sort by Author**: Sorts all books alphabetically by author.
+  - **Sort by Year and Genre**: Sorts books based on the publication year and genre.
+
+- **Filtering**:
+  - **Filter by Title**: Filters the list of books by title.
+  - **Filter by Year**: Filters the list of books by their publication year.
+
+- **Cart Management**:
+  - **Add to Cart**: Users can add books to a shopping cart.
+  - **Empty Cart**: Users can empty the cart, removing all books.
+  - **Generate Random Cart**: Generates a random selection of books for the cart.
+  - **Cart CRUD GUI**: A separate window allows users to manage books in the cart.
+  - **Cart Read-Only GUI**: Displays geometric shapes representing the number of books in the cart.
+
+- **Undo/Redo Functionality**: 
+  - **Undo**: Reverts the last operation (add, delete, update).
+  - **Redo**: Reapplies the last undone operation.
+
+- **Reports**:
+  - **Generate Report**: Displays the number of books in the library, grouped by genre.
+
+- **Export Cart**:
+  - **Export Cart to CSV**: Users can export the cart contents to a CSV file.
+  - **Export Cart to HTML**: Users can export the cart contents to an HTML file.
+
+
+## 2. Product Management Application
 
 A C++ application with a graphical user interface to manage a list of products, including functionalities for adding, deleting, and displaying products. The products are stored in a file and loaded on application startup.
 
@@ -24,7 +63,7 @@ A C++ application with a graphical user interface to manage a list of products, 
 
 ---
 
-## 2. Song Management Application - Rank Based
+## 3. Song Management Application - Rank Based
 
 A C++ application for managing songs, focusing on ranking. The GUI allows users to sort, add, update, and delete songs, which are stored in a file.
 
@@ -36,7 +75,7 @@ A C++ application for managing songs, focusing on ranking. The GUI allows users 
 
 ---
 
-## 3. Song Management Application - Genre Based
+## 4. Song Management Application - Genre Based
 
 A C++ application with a graphical interface for managing songs by genre. The application provides functionality to sort, add, and delete songs, focusing on genre-based operations.
 
@@ -47,7 +86,7 @@ A C++ application with a graphical interface for managing songs by genre. The ap
 
 ---
 
-## 4. Programmers Task Management Application
+## 5. Programmers Task Management Application
 
 A C++ application for managing software development tasks, allowing users to assign tasks to programmers and track their progress.
 
@@ -58,7 +97,7 @@ A C++ application for managing software development tasks, allowing users to ass
 
 ---
 
-## 5. Tic-Tac-Toe Game Application
+## 6. Tic-Tac-Toe Game Application
 
 A C++ application implementing a multi-game Tic-Tac-Toe manager, allowing users to create and manage multiple games with different board sizes.
 
